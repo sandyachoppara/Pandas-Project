@@ -11,4 +11,4 @@
 4> Renaming columns
 5> subsetting dataframes
 6> Basic operations with dataframe
-8> filtering data frames
+7> filtering data frames
