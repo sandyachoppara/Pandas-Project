@@ -1,4 +1,4 @@
-# Pandas-Project
+# Pandas-Projects
 
 ### PANDAS : A Library to handle Dataframes(DataSets)
 
